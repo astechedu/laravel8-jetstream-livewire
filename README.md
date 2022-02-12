@@ -1,6 +1,6 @@
 # Laravel + Jetstream + Livewire
 
-<img src="https://www.filepicker.io/api/file/TI8ov9XNRgGTbuQKDoki" width="400" height="">
+<img src="https://www.filepicker.io/api/file/TI8ov9XNRgGTbuQKDoki" width="400" height="150">
 
 ### Installing Laravel
 
